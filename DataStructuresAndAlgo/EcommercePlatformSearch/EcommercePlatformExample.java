@@ -39,15 +39,15 @@ public class EcommercePlatformExample {
     }
      public static void main(String[] args){
         Product[] products = {
-            new Product(101, "Laptop", "Electronics"),
-            new Product(203, "Smartphone", "Electronics"),
-            new Product(45, "T-Shirt", "Clothing"),
-            new Product(78, "Headphones", "Electronics"),
-            new Product(156, "Running Shoes", "Footwear")
+            new Product(100, "Laptop", "Electronics"),
+            new Product(200, "Smartphone", "Electronics"),
+            new Product(300, "T-Shirt", "Clothing"),
+            new Product(400, "Headphones", "Electronics"),
+            new Product(150, "Running Shoes", "Footwear")
         };
         Arrays.sort(products, (a, b) -> Integer.compare(a.id, b.id));
 
-        int searchId = 78;
+        int searchId = 400;
         System.out.println("Searching for product ID: " + searchId);
 
         Product linearResult = linearSearch(products, searchId);

@@ -9,9 +9,9 @@ public class FinancialForecasterexample {
 
     public static void main(String[] args) {
         // Example usage
-        double initialInvestment = 1000.0;  
-        double annualGrowthRate = 0.07;     
-        int investmentPeriod = 5;           
+        double initialInvestment = 10000.0;  
+        double annualGrowthRate = 0.09;     
+        int investmentPeriod = 8;           
         
         double futureValue = predictValue(initialInvestment, annualGrowthRate, investmentPeriod);
         
