@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "[week-2]Sl4JLoggingExercise/1.LoggingErrorMessagesAndWarningLevels/loggingexercise/src/main/java/com/sl4jexamp",
+        "[week-1]DesignPatternsAndPrinciples/3.SingletonPattern",
+        "[week-1]DesignPatternsAndPrinciples/2.FactoryMethodPattern",
+        "[week-2]Sl4JLoggingExercise/1.LoggingErrorMessageAndWarningLevel/loggingexample/src/main/java/com/sl4jexamp"
+    ]
+}
