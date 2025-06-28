@@ -23,14 +23,14 @@ public class BankAccountTest {
     public void testWithdrawMoreThanBalance() {
           BankAccount account = new BankAccount();
         account.deposit(100.0);
-        account.withdraw(150.0); // Should not withdraw
+        account.withdraw(150.0); 
         Assert.assertEquals(100.0, account.getBalance(), 0.01);
     }
 
     @Test
     public void testDepositNegativeAmount() {
         BankAccount account = new BankAccount();
-        account.deposit(-50.0); // Should not deposit
+        account.deposit(-50.0); 
         Assert.assertEquals(0.0, account.getBalance(), 0.01);
     }
 
