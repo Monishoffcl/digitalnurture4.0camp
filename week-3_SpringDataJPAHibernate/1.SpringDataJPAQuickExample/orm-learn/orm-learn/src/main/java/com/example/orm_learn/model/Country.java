@@ -16,7 +16,6 @@ public class Country {
     @Column(name = "co_name")
     private String name;
 
-    // Getters and Setters
     public String getCode() {
         return code;
     }

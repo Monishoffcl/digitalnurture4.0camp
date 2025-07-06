@@ -9,10 +9,10 @@
 		<relativePath/> 
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>orm-learn</artifactId>
+	<artifactId>DifferenceBetweenJPAHibernateAndSpringDataJPA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>orm-learn</name>
-	<description>Spring Boot Data For JPA</description>
+	<name>DifferenceBetweenJPAHibernateAndSpringDataJPA</name>
+	<description>DifferenceBetweenJPAHibernateAndSpringDataJPA</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -34,13 +34,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-devtools</artifactId>
-			<scope>runtime</scope>
-			<optional>true</optional>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+
 		<dependency>
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>

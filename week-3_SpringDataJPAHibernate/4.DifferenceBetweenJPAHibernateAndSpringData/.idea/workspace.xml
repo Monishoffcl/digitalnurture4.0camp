@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b73a989-8b10-41a8-b2bf-b29b360b2694" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../week-3_SpringCoreMaven/1.ConfiguringSpringApplication/springappexamp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3_SpringCoreMaven/1.ConfiguringSpringApplication/springappexamp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-3_SpringCoreMaven/2.ImplementingDependencyInjection/springcoremaven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3_SpringCoreMaven/2.ImplementingDependencyInjection/springcoremaven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-3_SpringCoreMaven/9.CreatingSpringBootApplication/LibraryManagement/LibraryManagement/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3_SpringCoreMaven/9.CreatingSpringBootApplication/LibraryManagement/LibraryManagement/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/main/java/com/example/orm_learn/model/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/main/java/com/example/orm_learn/model/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/main/java/com/example/orm_learn/repository/CountryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/main/java/com/example/orm_learn/repository/CountryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/test/java/com/example/orm_learn/OrmLearnApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1.SpringDataJPAQuickExample/orm-learn/orm-learn/src/test/java/com/example/orm_learn/OrmLearnApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zUqYksM300UOEPHtT457eXWUL4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b73a989-8b10-41a8-b2bf-b29b360b2694" name="Changes" comment="" />
+      <created>1751796050198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751796050198</updated>
+    </task>
+    <servers />
+  </component>
+</project>

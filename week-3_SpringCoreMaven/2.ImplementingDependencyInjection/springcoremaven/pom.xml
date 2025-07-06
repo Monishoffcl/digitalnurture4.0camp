@@ -28,7 +28,6 @@
             <version>${spring.version}</version>
         </dependency>
 
-        <!-- Logging (optional but recommended) -->
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>

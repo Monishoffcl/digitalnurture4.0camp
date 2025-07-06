@@ -7,5 +7,4 @@ import com.example.orm_learn.model.Country;
 
 @Repository
 public interface CountryRepository extends JpaRepository<Country, String> {
-    // Additional query methods can be defined here if needed
 }
