@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AccountApplication<account>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cognizant.account.AccountApplication",
+            "projectName": "account",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EurekaDiscoveryServerApplication<eureka-discovery-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cognizant.eureka_discovery_server.EurekaDiscoveryServerApplication",
+            "projectName": "eureka-discovery-server",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-LoanApplication<loan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cognizant.loan.LoanApplication",
+            "projectName": "loan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
