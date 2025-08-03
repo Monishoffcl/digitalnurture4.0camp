@@ -1,0 +1,26 @@
+.app-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  width: 25%;
+  border-left: 5px solid green;
+  padding: 10px;
+}
+
+.section h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.section h3,
+.section h4 {
+  margin: 10px 0 5px;
+}
+
+.section p {
+  margin: 0 0 10px;
+}
